@@ -1,0 +1,7 @@
+c:\users\user\source\repos\SPOKACsharpWorks\SPOKACsharpWorks\bin\Debug\SPOKACsharpWorks.exe.config
+c:\users\user\source\repos\SPOKACsharpWorks\SPOKACsharpWorks\bin\Debug\SPOKACsharpWorks.exe
+c:\users\user\source\repos\SPOKACsharpWorks\SPOKACsharpWorks\bin\Debug\SPOKACsharpWorks.pdb
+c:\users\user\source\repos\SPOKACsharpWorks\SPOKACsharpWorks\obj\Debug\SPOKACsharpWorks.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\SPOKACsharpWorks\SPOKACsharpWorks\obj\Debug\SPOKACsharpWorks.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SPOKACsharpWorks\SPOKACsharpWorks\obj\Debug\SPOKACsharpWorks.exe
+c:\users\user\source\repos\SPOKACsharpWorks\SPOKACsharpWorks\obj\Debug\SPOKACsharpWorks.pdb
